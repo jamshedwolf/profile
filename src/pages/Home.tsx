@@ -267,7 +267,7 @@ export default function Home() {
                   
                   <motion.img
                     src={developerAvatar}
-                    alt="Kashif Hussain - Front-End Web Developer"
+                    alt="jamshed ALi"
                     className="w-full h-full object-cover rounded-full relative z-10"
                     whileHover={{ scale: 1.1 }}
                     transition={{ duration: 0.3 }}
